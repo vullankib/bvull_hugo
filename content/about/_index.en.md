@@ -2,7 +2,7 @@
 title: About
 ---
 <div class="has-background-blue is-about-text">
-<p>A self-taught developer, I started coding more than ten years ago. It quickly grew into a passion and I’ve been freelancing since 2012.</p>
+<p>A Senior Technical Program Manager, I started coding more than ten years ago. It quickly grew into a passion and I’ve been freelancing since 2012.</p>
 <p>I work with open source CMS, HTML, CSS, Javascript, PHP and MySQL. My clients usually are web agencies and businesses of all sizes.</p>
 <p>I love challenges, new projects, and solving problems.</p>
 <p>Oh, and Spaces&nbsp;&gt;&nbsp;Tabs.</p>
